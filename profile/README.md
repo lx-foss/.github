@@ -1,12 +1,6 @@
-## Hi there 👋
+## Welcome to the Lx FOSS Community👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're a community of builders, hackers, designers, and tech enthusiasts working on Free and Open Source software, collaborating, sharing knowlwdge, exchanging ideas and helping each other grow.
+Pull requests to all our projects are welcome.   
+  
+You can join us on [Telegram](), or send us an [Email](lx.foss.community@gmail.com) if you'd like to join our github organization, with a small introduction and why you'd like to join :)
